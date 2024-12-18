@@ -1,4 +1,4 @@
-## hello there 
+## hello there world
 
 - 🔭 I’m currently working on a custom degree map builder for the borough of manhattan community college
 - 🌱 I’m currently learning responsive design, javascript and C++
