@@ -1,5 +1,5 @@
-![oswaldo fabrizio de los santos ascencio](https://github.com/user-attachments/assets/f742f472-a17c-436b-8817-b83ce81fb091)
-# 
+<!-- ![oswaldo fabrizio de los santos ascencio](https://github.com/user-attachments/assets/f742f472-a17c-436b-8817-b83ce81fb091) -->
+# hello there world
 - 🔭 I’m currently working on a custom degree map builder for the borough of manhattan community college
 - 🌱 I’m currently learning responsive design, javascript and C++
 - 👯 I’m looking to collaborate on preferably web projects but would love anything
