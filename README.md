@@ -1,7 +1,7 @@
 <!-- ![oswaldo fabrizio de los santos ascencio](https://github.com/user-attachments/assets/f742f472-a17c-436b-8817-b83ce81fb091) -->
 # hello there world
 - 🔭 I’m currently working on a custom degree map builder for the borough of manhattan community college
-- 🌱 I’m currently learning C++ and JavaScript
+- 🌱 I’m currently learning C++ and JavaScript and the fundamentals of web design!
 - 👯 I’m looking to collaborate on preferably web projects but would love anything!
 - 📫 How to reach me: ofdlsa@outlook.com || oswaldo.delossantos42@stu.bmcc.cuny.edu
 
