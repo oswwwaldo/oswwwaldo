@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a custom degree map builder for the borough of manhattan community college
 - 🌱 I’m currently learning C++ and JavaScript and the fundamentals of web design!
 - 👯 I’m looking to collaborate on preferably web projects but would love anything!
-- 📫 How to reach me: ofdlsa@outlook.com || oswaldo.delossantos42@stu.bmcc.cuny.edu
+- 📫 How to reach me: ofdelossantosa@gmail.com || oswaldo.delossantos42@stu.bmcc.cuny.edu
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=oswwwaldo" alt="my coding streak"/>
 <!--
