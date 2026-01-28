@@ -11,11 +11,15 @@
 - 👯 I’m looking to collaborate on web projects preferably but would love anything! Even if it's some chess club or something.
 - 📫 How to reach me: ofdelossantosa@gmail.com || oswaldo.delossantos42@stu.bmcc.cuny.edu
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oswwwaldo" alt="my coding streak"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=oswwwaldo" alt="GitHub Streak" /></a>
 
+<!--
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oswwwaldo" alt="my coding streak"/>
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=oswwwaldo)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oswwwaldo&hide_border=true)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=oswwwaldo&hide_border=true" alt="GitHub Streak" /></a>
-
+-->
 <!--
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
