@@ -6,10 +6,10 @@
 <!-- ![clippy](https://github.com/user-attachments/assets/2dc4cdef-1388-4adc-ae8d-1018ca82fb8c) -->
 
 # hello there world
-- 🔭 I’m currently working on a custom degree map builder for the borough of manhattan community college
-- 🌱 I’m currently learning Kotlin, TypeScript, React, Django and maybe a bit of AWS?? Don't quote me.
+<!-- - 🔭 I’m currently working on a custom degree map builder for the borough of manhattan community college -->
+<!-- - 🌱 I’m currently learning Kotlin, TypeScript, React, Django and maybe a bit of AWS?? Don't quote me. -->
 - 👯 I’m looking to collaborate on web projects preferably but would love anything! Even if it's some chess club or something.
-- 📫 How to reach me: ofdelossantosa@gmail.com || oswaldo.delossantos42@stu.bmcc.cuny.edu
+- 📫 How to reach me: ofdelossantosa@gmail.com 
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=oswwwaldo" alt="GitHub Streak" /></a>
 
