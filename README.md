@@ -8,6 +8,8 @@
 # hello there world
 <!-- - 🔭 I’m currently working on a custom degree map builder for the borough of manhattan community college -->
 <!-- - 🌱 I’m currently learning Kotlin, TypeScript, React, Django and maybe a bit of AWS?? Don't quote me. -->
+- 🔭 I’m currently working on my portfolio website, as well as a production-ready deployment of Nunchi Health
+- 🌱 I’m currently learning Astro.js, TypeScript and a tad bit GSAP.
 - 👯 I’m looking to collaborate on web projects preferably but would love anything! Even if it's some chess club or something.
 - 📫 How to reach me: ofdelossantosa@gmail.com 
 
