@@ -35,9 +35,6 @@ a note for you when you want to add more badges and finish this readme
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
 
-<a href="mailto:ofdelossantosa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/ofdlsa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
 thank you for coming to my tedtalk <img src="https://github.com/user-attachments/assets/24584f29-5cf8-4e1f-8526-74cce1df84b4" width="50" height="40">
 
 <!--
