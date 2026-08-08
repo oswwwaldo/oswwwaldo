@@ -1,5 +1,6 @@
-<img width="160" height="148" alt="clippy" src="https://github.com/user-attachments/assets/2dc4cdef-1388-4adc-ae8d-1018ca82fb8c" />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=oswwwaldo)](https://git.io/streak-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=oswwwaldo)](https://git.io/streak-stats) <img width="200" height="188" alt="clippy" src="https://github.com/user-attachments/assets/2dc4cdef-1388-4adc-ae8d-1018ca82fb8c" />
 
 # hello there world
 - 🔭 Currently working on my portfolio website, as well as a production-ready deployment of Nunchi Health
