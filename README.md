@@ -4,9 +4,9 @@
 
 # hello there world
 - 🔭 Currently working on my portfolio website, and an extension for Marcy LMS as well as a production-ready deployment of Nunchi Health.
-- 🌱 Currently learning Astro.js, JavaScript and Python.
+- 🌱 Currently learning Python, Astro.js and JavaScript.
 - 👯 I’m looking to collaborate on web projects preferably but would love anything! Even if it's some chess club or something.
-- 📫 How to reach me: ofdelossantosa@gmail.com || discord: @mooonlightontheriver
+- 📫 How to reach me: ofdelossantosa@gmail.com || discord: @mooonlightontheriver || myspace: myspace.com/byoswwwaldo
 - ❤️‍🔥 Long live Stannis of House Baratheon, First of His Name, King of the Andals, the Rhoynar, and the First Men, Lord of the Seven Kingdoms, Protector of the Realm.
 - 👽 some [pregame for your next commit/pr](https://youtu.be/WjHlkSuQ0WM) or some [rock solid gorduratrans](https://www.youtube.com/watch?v=GOB8iz3iMB8&pp=ygURZW50ZXJybyBkb3Mgb3Nzb3M%3D) 
 - [me when](https://youtu.be/JcfEtqDMpSY?si=czKaaWqxKqQlHa91)
