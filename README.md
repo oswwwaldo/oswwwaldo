@@ -4,6 +4,7 @@
 - 🔭 Currently working on my portfolio, and an extension for Marcy LMS as well as a production-ready deployment of Nunchi Health.
 - 🌱 Currently learning Python, TypeScript, data structures and systems design
 - 🦅 Currently studying Adrian Cantrill's tech fundamentals course, with ambition to pass SAA-C03 and DVA-C03 someday soon!
+- 📖 Currently reading A Philosophy for Software Design by John Ousterhout
 - 🐎 Currently enrolled as a fellow for the 2026 Software Engineering cohort for the Marcy Lab School
 - 👯 I’m looking to collaborate on web projects preferably but would love anything! Even if it's some chess club or something.
 - 📫 How to reach me: ofdelossantosa@gmail.com || discord: @mooonlightontheriver
@@ -22,7 +23,6 @@ thank you for coming to my tedtalk <img src="https://github.com/user-attachments
 [monke](https://www.youtube.com/shorts/n0boDrbTpgY)
 lowkirkentologicalockedinlowstate
 September 20th, 2026
---->
-<!--- 
+
 - 🌹 hi, listen to this if you're for some reason in my readme.md's code: https://www.youtube.com/watch?v=KPzxNZKVgF4 
 -->
