@@ -1,7 +1,7 @@
 <img width="200" height="194" alt="clippy" src="https://github.com/user-attachments/assets/2dc4cdef-1388-4adc-ae8d-1018ca82fb8c" /> [![GitHub Streak](https://streak-stats.demolab.com/?user=oswwwaldo)](https://git.io/streak-stats) 
 
 # hello there world
-- 🔭 Currently working on my portfolio, and a chrome extension for Marcy LMS as well as a production-ready deployment of Nunchi Health.
+- 🔭 Currently working on my portfolio, and an extension for Marcy LMS as well as a production-ready deployment of Nunchi Health.
 - 🌱 Currently learning Python, TypeScript, data structures and systems design
 - 🦅 Currently studying Adrian Cantrill's tech fundamentals course, with ambition to pass SAA-C03 and DVA-C03 someday soon!
 - 🐎 Currently enrolled as a fellow for the 2026 Software Engineering cohort for the Marcy Lab School
