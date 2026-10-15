@@ -1,12 +1,12 @@
 <img width="200" height="194" alt="clippy" src="https://github.com/user-attachments/assets/2dc4cdef-1388-4adc-ae8d-1018ca82fb8c" /> [![GitHub Streak](https://streak-stats.demolab.com/?user=oswwwaldo)](https://git.io/streak-stats) 
 
 # hello there world
-- 🔭 Currently working on my portfolio, and an extension for Marcy LMS as well as a production-ready deployment of Nunchi Health.
-- 🌱 Currently learning Python, TypeScript, data structures and systems design
+- 🔭 Currently working on my portfolio, an extension for Marcy LMS, as well as a production-ready deployment of Nunchi Health.
+- 🌱 Currently learning Python, TypeScript, data structures, and systems design
 - 🦅 Currently studying Adrian Cantrill's tech fundamentals course, with ambition to pass SAA-C03 and DVA-C03 someday soon!
-- 📖 Currently reading A Philosophy for Software Design by John Ousterhout
+- 📖 Currently reading A Philosophy for Software Design by John Ousterhout and Automate the Boring Stuff with Python
 - 🐎 Currently enrolled as a fellow for the 2026 Software Engineering cohort for the Marcy Lab School
-- 👯 I’m looking to collaborate on web projects preferably but would love anything! Even if it's some chess club or something.
+- 👯 I’m looking to collaborate on web projects, preferably, but would love anything! Even if it's some chess club or something.
 - 📫 How to reach me: ofdelossantosa@gmail.com || discord: @mooonlightontheriver
 - [me when](https://youtu.be/JcfEtqDMpSY?si=czKaaWqxKqQlHa91)
 
