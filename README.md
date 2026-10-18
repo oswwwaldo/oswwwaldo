@@ -8,7 +8,7 @@
 - 🐎 Currently enrolled as a fellow for the 2026 Software Engineering cohort for the Marcy Lab School
 - 👯 I’m looking to collaborate on web projects, preferably, but would love anything! Even if it's some chess club or something.
 - 📫 How to reach me: ofdelossantosa@gmail.com || discord: @mooonlightontheriver
-- [me when](https://youtu.be/JcfEtqDMpSY?si=czKaaWqxKqQlHa91)
+- [me when](https://youtube.com/shorts/j2gMUI3Qkbw)
 
   
 thank you for coming to my tedtalk <img src="https://github.com/user-attachments/assets/24584f29-5cf8-4e1f-8526-74cce1df84b4" width="30" height="20">
