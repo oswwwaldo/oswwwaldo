@@ -24,5 +24,14 @@ thank you for coming to my tedtalk <img src="https://github.com/user-attachments
 lowkirkentologicalockedinlowstate
 September 20th, 2026
 
+Associate Cloud Engineer Certification
+https://www.skills.google/paths/11
+
+Google Cloud Computing Foundations Certificate
+https://www.skills.google/paths/36
+
+API Developer
+https://www.skills.google/paths/21
+
 - 🌹 hi, listen to this if you're for some reason in my readme.md's code: https://www.youtube.com/watch?v=KPzxNZKVgF4 
 -->
